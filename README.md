@@ -5,11 +5,12 @@
 ```
 git clone https://github.com/sudo-self/next-firebase.git
 cd next-firebase
-pnpm install firebase
 pnpm i
 pnpm run dev
-
 ```
+
+### <a href="http://localhost:3000>localhost:3000">localhost:3000</a>
+
 
 
 https://github.com/user-attachments/assets/c18c3a25-5edd-40bf-a113-efce7d18d60e
