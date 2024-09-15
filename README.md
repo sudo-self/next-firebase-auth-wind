@@ -251,7 +251,7 @@ function MyApp({ Component, pageProps }) {
 
 export default MyApp;
 ```
-### NextCongig.js
+### nextConfig.js
 
 ```
 //nextConfig.js
