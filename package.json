@@ -1,0 +1,24 @@
+{
+  "name": "next-firebase-auth-wind",
+  "version": "1.0.0",
+  "description": "``` git clone https://github.com/sudo-self/next-firebase.git cd next-firebase pnpm i pnpm run dev ```",
+  "main": "firebase.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudo-self/next-firebase-auth-wind.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sudo-self/next-firebase-auth-wind/issues"
+  },
+  "homepage": "https://github.com/sudo-self/next-firebase-auth-wind#readme",
+  "dependencies": {
+    "vite": "^7.0.0"
+  }
+}
